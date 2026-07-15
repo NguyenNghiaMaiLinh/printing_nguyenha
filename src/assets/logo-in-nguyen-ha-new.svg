@@ -1,0 +1,10 @@
+<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="4" width="52" height="52" rx="16" fill="#0F172A"/>
+  <path d="M20 18H34C36.7614 18 39 20.2386 39 23V23C39 25.7614 36.7614 28 34 28H20V18Z" fill="#22D3EE"/>
+  <path d="M20 28H34C36.7614 28 39 30.2386 39 33V33C39 35.7614 36.7614 38 34 38H20V28Z" fill="#22D3EE"/>
+  <rect x="18" y="18" width="6" height="24" rx="2" fill="white"/>
+  <path d="M40 18L50 38" stroke="#22D3EE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M50 18L40 38" stroke="#22D3EE" stroke-width="4" stroke-linecap="round"/>
+  <text x="68" y="28" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.8">IN</text>
+  <text x="68" y="46" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">NGUYÊN HÀ</text>
+</svg>

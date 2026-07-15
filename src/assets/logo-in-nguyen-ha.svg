@@ -1,0 +1,11 @@
+<svg width="240" height="60" viewBox="0 0 240 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>In Nguyên Hà logo</title>
+  <rect x="2" y="2" width="56" height="56" rx="16" fill="#06B6D4"/>
+  <path d="M19 16H29C33.4183 16 37 19.5817 37 24V24C37 28.4183 33.4183 32 29 32H19V16Z" fill="white"/>
+  <path d="M19 32H29C33.4183 32 37 35.5817 37 40V40C37 44.4183 33.4183 48 29 48H19V32Z" fill="white"/>
+  <rect x="18" y="16" width="8" height="32" rx="2" fill="#0F172A"/>
+  <path d="M36 16L48 48" stroke="#06B6D4" stroke-width="4" stroke-linecap="round"/>
+  <path d="M48 16L36 48" stroke="#06B6D4" stroke-width="4" stroke-linecap="round"/>
+  <text x="70" y="26" fill="white" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.2">IN</text>
+  <text x="70" y="44" fill="white" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">NGUYÊN HÀ</text>
+</svg>
